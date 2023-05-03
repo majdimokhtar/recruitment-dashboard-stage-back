@@ -52,6 +52,3 @@ If you wish to test the APIs using Postman, follow the instructions below:
 ```python
 pip install  GDAL-3.4.3-cp311-cp311-win_amd64.whl
 ```
-
-
-## Still in review: It isn't done yet.
